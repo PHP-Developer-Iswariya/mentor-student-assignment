@@ -58,16 +58,10 @@ This API endpoint retrieves a list of all previously assigned mentor for a parti
 
 **Method:** GET
 
-## GitHub Repository
 
-- **URL:** [https://github.com/Shanmugamrskfamily/mentor-student-assigning-with-database.git](https://github.com/Shanmugamrskfamily/mentor-student-assigning-with-database.git)
 
 ## API Documentation
 
 - **URL:** [https://documenter.getpostman.com/view/28858691/2s9YRCVW2M](https://documenter.getpostman.com/view/28858691/2s9YRCVW2M)
 
-## Last Committed Hash ID
 
-- **Hash ID:** 89ccc0871c9f033538a98d66564fc7d582574ea8
-
----
